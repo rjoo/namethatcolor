@@ -1,16 +1,16 @@
 {
   "name": "namethatcolor",
   "version": "0.0.1",
-  "description": "Name that color",
+  "description": "A simple command line tool that provides the name of a hex based color.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "snippet": "./index.js"
+    "ntc": "./index.js"
   },
   "author": "Ross Joo",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "commander": "^2.9.0"
   }
