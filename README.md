@@ -1,7 +1,7 @@
 # Name That Color #
 A simple command line tool that prints the name of a hex-based color.
 
-Based off of the [name that color][http://chir.ag/projects/name-that-color/] tool by Chjirag Mehta.
+Based off of the [name that color](http://chir.ag/projects/name-that-color/) tool by Chjirag Mehta.
 
 # Installation #
 `npm install -g namethatcolor`
